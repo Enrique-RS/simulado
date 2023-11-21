@@ -1,0 +1,9 @@
+.imagens {
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.imagens img {
+    width: 200px;
+    height: auto;
+}
